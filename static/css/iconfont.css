@@ -1,0 +1,23 @@
+
+@font-face {font-family: "iconfont";
+  src: 
+  url('../fonts/iconfont.ttf?t=1526704102977') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('../fonts/iconfont.svg?t=1526704102977#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-lianxiwomendibiao:before { content: "\e620"; }
+
+.icon-jianli:before { content: "\e60a"; }
+
+.icon-ren:before { content: "\e61a"; }
+
+.icon-lianxiwomen:before { content: "\e61b"; }
+
